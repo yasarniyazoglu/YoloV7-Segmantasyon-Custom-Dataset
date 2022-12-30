@@ -1,0 +1,1 @@
+python labelme2yolov7seg.py --labelme_dataset_dir C:\Users\yasar\Desktop\Udemy_2\Kodlar\YoloV7_Segmantasyon\YOLOv7-Pytorch-Segmentation-master\detectron2_mask --train_val_ratio 0.2 --ouput_dataset_dir ./yolov7_segmantasyon_dataset --image_name 1
