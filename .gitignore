@@ -1,5 +1,7 @@
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
 *.jpg
+yolov7_segmantasyon_dataset/train/images/*.jpg
+yolov7_segmantasyon_dataset/val/images/*.jpg
 *.jpeg
 *.png
 *.bmp
