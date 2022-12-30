@@ -1,10 +1,10 @@
-train: /content/data_f1/images/train
-val: /content/data_f1/images/val
+train: /content/yolov7_segmantasyon_dataset/train
+val: /content/yolov7_segmantasyon_dataset/val
 
-is_coco: False
+
 
 # number of classes
-nc: 4
+nc: 3
 
 # class names
-names: [ 'Ferrari','Mclaren','Mercedes','Redbull' ]
+names: [ 'raspberry','multimetre','salca']
