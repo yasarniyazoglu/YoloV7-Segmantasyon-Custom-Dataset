@@ -29,7 +29,8 @@ yolov7_segmantasyon_dataset/val/images/*.jpg
 storage.googleapis.com
 runs/*
 data/*
-data/images/*
+yolov7_segmantasyon_dataset/images/train/*
+yolov7_segmantasyon_dataset/images/val/*
 !data/*.yaml
 !data/hyps
 !data/scripts
